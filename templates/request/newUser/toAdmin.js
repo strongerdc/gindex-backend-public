@@ -228,7 +228,7 @@ function returnTemplate(userDetails) {
                                 </tr>
                                 <tr>
                                   <td class="td-padding" align="left" style="font-family: 'Roboto Mono', monospace; color: #212121!important; font-size: 16px; line-height: 24px; padding-top: 18px; padding-left: 18px!important; padding-right: 18px!important; padding-bottom: 0px!important; mso-line-height-rule: exactly; mso-padding-alt: 18px 18px 0px 18px;">
-                                    The Following Person has Requested Access for ${process.env.FRONTENDSITENAME}. Only Accept the Request if It's from an Email ID on our BITS Domain (Specifically Hyderabad Campus). Currently We Are Allowing Alumni's From All Three Campuses. 
+                                    The Following Person has Requested Access for ${process.env.FRONTENDSITENAME}. Only Accept the Request if It's From an Email Id on Our BITS Domain (Specifically Hyderabad Campus). Currently We Are Allowing Alumni's From All Three Campuses. 
                                     <br><br>
                                     <b>Details:</b>
                                     <br>
